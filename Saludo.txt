@@ -2,4 +2,4 @@ Hola mundo!
 
 Este es un archivo de texto plano.
 
-Y lo estamos editando.
+Estoy aprendiendo git a profundidad.
