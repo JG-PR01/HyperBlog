@@ -29,3 +29,10 @@ body {
 #post {
 	padding: 1em;
 }
+#footer {
+	background-color: #474747;
+	text-align: center;
+	font-weight: bold;
+	color: #ffffff;
+	padding: 0.5em 0;
+}
