@@ -45,3 +45,7 @@ body {
 	color: #ffffff;
 	padding: 0.5em 0;
 }
+#burger {
+	width: 50%;
+	margin: 0 25%;
+}
